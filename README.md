@@ -1,5 +1,6 @@
 # Aula4_Alura_Google
 Projeto Aula 4 - Imersão Alura Google
+Optei por manter os filtros padrões, então não adicionei as configurações de parametros ao código.
 O App faz 3 perguntas ao usuário, são elas:
 1. Qual tipo de meditação você quer fazer?
      a. Para essa questão a pessoa que utilizar o app, pode fazer a escolha de uma das opções:
